@@ -15,6 +15,9 @@ Install
 	* Download the ADT developer tools (http://developer.android.com/sdk/index.html)
 	* Import the project
 	* Build the project
+	Or if you're a real hero: 
+	* Download the new Android Studio (http://developer.android.com/sdk/installing/studio.html)
+	
 
 Contribute
 ----------
