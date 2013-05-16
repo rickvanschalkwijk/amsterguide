@@ -22,5 +22,7 @@ local.properties
 #Android Studio
 *.iml
 *.gradle
+.idea/
 gradle/
-
+gradlew
+gradlew.bat
